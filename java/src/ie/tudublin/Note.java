@@ -34,7 +34,7 @@ public class Note {
         return "Note [duration=" + duration + ", note=" + note + "]";
     }
 
-    //ArrayList<Note>note = new ArrayList<Note>();
+   
     
 
 
